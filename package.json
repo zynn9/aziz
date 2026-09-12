@@ -1,0 +1,15 @@
+{
+  "name": "aziz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zynn",
+  "license": "ISC",
+  "description": "Bot appartenant à l'ESGI de Reims pouvant planifier des rappels et répondant à certaines questions des étudiants.",
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "luxon": "^3.6.1"
+  }
+}
